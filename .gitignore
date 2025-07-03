@@ -1,4 +1,15 @@
+# Python artifacts
 __pycache__/
-*.pyc
-.venv/
+*.py[cod]
+*.pyo
+
+# Virtualenvs
 env/
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# Docker build files
+*.log
